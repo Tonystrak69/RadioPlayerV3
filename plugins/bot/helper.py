@@ -189,12 +189,12 @@ async def cb_handler(client: Client, query: CallbackQuery):
                 InlineKeyboardButton("SEARCH SONGS INLINE", switch_inline_query_current_chat=""),
             ],
             [
-                InlineKeyboardButton("CHANNEL", url="https://t.me/AsmSafone"),
-                InlineKeyboardButton("SUPPORT", url="https://t.me/SafoTheBot"),
+                InlineKeyboardButton("CHANNEL", url="https://t.me/tonyleechandmirror"),
+                InlineKeyboardButton("SUPPORT", url="https://t.me/tony_leech_zone"),
             ],
             [
-                InlineKeyboardButton("MORE BOTS", url="https://t.me/AsmSafone/173"),
-                InlineKeyboardButton("SOURCE CODE", url="https://github.com/AsmSafone/RadioPlayerV3"),
+                InlineKeyboardButton("MODIFIED BY", url="https://t.me/JustTony_xD"),
+                InlineKeyboardButton("LEECH+MIRROR", url="https://t.me/tony_leech_zone"),
             ],
             [
                 InlineKeyboardButton("CLOSE MENU", callback_data="close"),
@@ -228,8 +228,8 @@ async def start(client, message):
                 InlineKeyboardButton("SUPPORT", url="https://t.me/SafoTheBot"),
             ],
             [
-                InlineKeyboardButton("MORE BOTS", url="https://t.me/AsmSafone/173"),
-                InlineKeyboardButton("SOURCE CODE", url="https://github.com/AsmSafone/RadioPlayerV3"),
+                InlineKeyboardButton("MORE BOTS", url="https://t.me/Tonyleechandmirror"),
+                InlineKeyboardButton("LEECH+MIRROR", url="https://t.me/tony_leech_zone"),
             ],
             [
                 InlineKeyboardButton("❔ HOW TO USE ❔", callback_data="help"),
