@@ -46,8 +46,8 @@ async def search(client, query):
         answers.append(
             InlineQueryResultArticle(
                 title="Nothing",
-                thumb_url="https://telegra.ph/file/4e839766d45935998e9c6.jpg",
-                input_message_content=InputTextMessageContent(f"{REPLY_MESSAGE}\n\n<b>© Powered By : \n@AsmSafone | @SafoTheBot 👑</b>", disable_web_page_preview=True),
+                thumb_url="https://telegra.ph/file/283a09e56c3180315295f.jpg",
+                input_message_content=InputTextMessageContent(f"{REPLY_MESSAGE}\n\n<b>© Powered By : \n@JustTony_xD | @Tony_Leech_Zone 👑</b>", disable_web_page_preview=True),
                 reply_markup=InlineKeyboardMarkup(buttons)
                 )
             )
